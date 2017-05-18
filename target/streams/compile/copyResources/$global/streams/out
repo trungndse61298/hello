@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(D:\PLAY\hello-world\hello\conf\application.conf,D:\PLAY\hello-world\hello\target\scala-2.11\classes\application.conf)
+[debug] 	(D:\PLAY\hello-world\hello\conf\logback.xml,D:\PLAY\hello-world\hello\target\scala-2.11\classes\logback.xml)
+[debug] 	(D:\PLAY\hello-world\hello\conf\routes,D:\PLAY\hello-world\hello\target\scala-2.11\classes\routes)
